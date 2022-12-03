@@ -1,0 +1,3 @@
+Go to file
+#!/bin/bash
+python3 -c "$PYCODE"
