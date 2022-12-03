@@ -1,4 +1,3 @@
-Go to file
 #include "lists.h"
 #include <stdlib.h>
 /**
